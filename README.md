@@ -287,4 +287,3 @@
                             </div>
                             <h4 class="font-semibold text-earth-900 text-sm">Terus Belajar</h4>
                             <p class="text-xs text-earth-600 mt-1 leading-relaxed">Selalu antusias mengasah w
-                            
